@@ -1,3 +1,3 @@
-Nama: Femilia Putri
-Alamat: Jakarta
+Nama: Andre Ayadi
+Alamat: Bekasi
 Bahasa Pemrograman: JavaScript
